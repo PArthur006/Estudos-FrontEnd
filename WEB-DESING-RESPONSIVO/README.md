@@ -1,4 +1,4 @@
-## Certificação de Design Responsivo para a Web
+# Certificação de Design Responsivo para a Web - _FreeCodeCamp_
 
 Este repositório contém os projetos desenvolvidos durante minha certificação em design responsivo para a web pela FreeCodeCamp. Aqui você encontrará os códigos, anotações e insights que adquiri ao longo do curso.
 
