@@ -1,4 +1,4 @@
-# Curso Web Moderno Completo com JavaScript + Projetos
+# Curso Web Moderno Completo com JavaScript - _Udemy_
 
 ## Sobre o curso
 - **Aplicações Web Modernas**: Criação de aplicações reais com as tecnologias mais atuais.
